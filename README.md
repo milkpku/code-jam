@@ -1,4 +1,4 @@
 code-jam
 ========
 
-code jam records
+Google's code jam records
